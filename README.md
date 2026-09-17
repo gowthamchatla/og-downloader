@@ -36,7 +36,14 @@ npm run dev
 # Runs on http://localhost:5173
 # Proxy to /api → localhost:8000 is pre-configured
 ```
+# SnapLoad ⚡
+> Download videos from YouTube, Instagram, Twitter/X, and Pinterest.
 
+
+<img width="1717" height="921" alt="Screenshot 2026-09-17 185223" src="https://github.com/user-attachments/assets/159ead83-383a-42a8-a3e4-bf1780bdde71" />
+
+
+---
 ---
 
 ## Production Deploy (VPS)
